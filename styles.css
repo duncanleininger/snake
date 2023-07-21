@@ -1,0 +1,24 @@
+#gameBorder {
+    text-align: center;
+    font-size: 60px;
+}
+
+#gameBoard {
+    border: 6px black solid;
+}
+
+#resetBtn {
+    font-size: 30px;
+    border: 3px black solid;
+    border-radius: 6px;
+    background-color: rgb(220, 220, 220);
+}
+
+#resetBtn:hover {
+    background-color: rgb(255, 220, 220);
+    cursor: pointer;
+}
+
+.hide {
+    display: none;
+}
